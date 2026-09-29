@@ -1,12 +1,12 @@
 {
   "app": "recall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_supported": "1.0.0",
-  "url": "https://github.com/recall-max/recall-release/releases/download/v1.0.0/recall.exe",
+  "url": "https://github.com/recall-max/recall-release/releases/download/v1.0.1/recall.exe",
   "page": "https://github.com/recall-max/recall-release/releases/latest",
-  "sha256": "7f8cda7f0c8c9cd51c5aad08afe9720565a051fa10b473cfe7cf847ee6c5c054",
-  "size": 69815715,
+  "sha256": "851db39e3b8116dfc5fa71df8835a2826a2538c56e8b8ce6b2e08faf6a4d61c1",
+  "size": 69816679,
   "released": "2026-09-29",
-  "notes": "",
-  "sig": "LAAo4EzUPzjn2bmbT4PW1KWiX9e0DUrCRLC2xXEnUZejxsBnILxnkxWq6kZWgwtxve5BMzsrLMEQki95lAGlBw=="
+  "notes": "· 정기검진 리콜 항목 추가 (최종내원 6개월 경과)\n· 다이어리: 완료한 일은 목록 아래로 이동\n· 다이어리: 시간 미정인 일 순서 바꾸기 (끌어놓기 / Ctrl+↑↓)",
+  "sig": "fMppEI288eSUaWM5WLLJI5ChfcbdqmRD2YEbm78z/9yf3qH4Fh5NBPUievYUT0N7Z6CEP+xaG4H/ma7352H4Bw=="
 }
