@@ -1,12 +1,12 @@
 {
   "app": "recall",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "min_supported": "1.0.1",
-  "url": "https://github.com/recall-max/recall-release/releases/download/v1.0.2/recall.exe",
+  "url": "https://github.com/recall-max/recall-release/releases/download/v1.0.3/recall.exe",
   "page": "https://github.com/recall-max/recall-release/releases/latest",
-  "sha256": "719cb5041c47e4e824c3f56526ecea3132226b829e6177b0eaaae58447e5b928",
-  "size": 69818398,
+  "sha256": "25c2413a9d99b903f6c135e2e609c04f58b171ffe7eaa987a97804a2b384646f",
+  "size": 69817874,
   "released": "2026-09-29",
-  "notes": "· 업데이트 교체 오류 수정",
-  "sig": "S6lztOu4PCxAXINlzO4rAoPC2aAGT53b3p6XzuVq/TSGDKsY0hxLl75CJH0NNd2W8OJxwEphweVoZYN3ery1Ag=="
+  "notes": "· 다이어리: 다음 일정 칸 추가 (연결된 환자의 다음 약속 표시)",
+  "sig": "zAM4I4JrYmL8XQfEwX+zzaQcZ9+HtKuV5Hr7Nlh8VJi4m6R4MHAKyXXMeh/JtkjcNq8qPdOESf86PVHJhawdDQ=="
 }
